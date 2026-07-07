@@ -1,4 +1,26 @@
-/* Custom CSS */
+@import "tailwindcss";
+
+@theme {
+  --color-primary-50: #fdf2f8;
+  --color-primary-100: #fce7f3;
+  --color-primary-200: #fbcfe8;
+  --color-primary-300: #f9a8d4;
+  --color-primary-400: #f472b6;
+  --color-primary-500: #ec4899;
+  --color-primary-600: #db2777;
+  --color-primary-700: #be185d;
+  --color-primary-800: #9d174d;
+  --color-primary-900: #831843;
+
+  --color-secondary-50: #f5f3ff;
+  --color-secondary-100: #ede9fe;
+  --color-secondary-500: #8b5cf6;
+  --color-secondary-900: #4c1d95;
+
+  --color-gold-400: #fbbf24;
+  --color-gold-500: #f59e0b;
+}
+
 body {
   font-family: 'Vazirmatn', sans-serif;
 }
