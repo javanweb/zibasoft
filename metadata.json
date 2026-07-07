@@ -1,0 +1,12 @@
+{
+  "name": "Copy of ZibaSoft AI - Salon Manager",
+  "description": "A comprehensive, AI-powered beauty salon management application designed for the Persian market. Features smart scheduling, business intelligence, image editing, and voice assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
